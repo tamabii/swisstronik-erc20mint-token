@@ -8,7 +8,7 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
 ### 1. Clone Repository
 
-```bash
+```
 git clone https://github.com/tamabii/swisstronik-erc20mint-token.git
 ```
 
